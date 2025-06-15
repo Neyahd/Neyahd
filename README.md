@@ -26,7 +26,6 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neyahd&theme=github-dark)
 
 ## 📈 Метрики кода
-![Lines of Code](https://line-count.vercel.app/Neyahd/count?style=for-the-badge)
 ![Total Files](https://img.shields.io/badge/Files-1.2k-blue?style=for-the-badge)
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sytrasyyy)
