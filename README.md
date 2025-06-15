@@ -2,18 +2,21 @@
 
 ## 📊 Статистика
 
+
 <div align="center">
-  <a href="https://github.com/Neyahd?tab=repositories">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neyahd&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neyahd&theme=tokyonight&exclude=HTML,CSS,SCSS&count_private=true"/>
-  </a>
-  <a href="https://github.com/Neyahd?tab=stars">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neyahd&theme=tokyonight&utcOffset=1&count_private=true"/>
-  </a>
+  <!-- Statystyki konta (commits, PR, issues itp.) -->
+  <img height="165em" src="https://github-readme-stats-private.vercel.app/api?username=Neyahd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered"/>
+  
+  <!-- Najczęściej używane języki -->
+  <img height="165em" src="https://github-readme-stats-private.vercel.app/api/top-langs/?username=Neyahd&layout=compact&theme=tokyonight&hide=html,css,scss&count_private=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neyahd&theme=tokyonight&hide_border=true&area=true&count_private=true"/>
+  <!-- Streak statystyki -->
+  <img src="https://streak-stats-private.vercel.app/?user=Neyahd&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&include_all_commits=true"/>
+  
+  <!-- Linie kodu (wymaga tokenu) -->
+  <img src="https://tokei.rs/b1/github/Neyahd?category=code&style=flat&color=6392C6&label=Total%20Lines"/>
 </div>
 
 ## 🛠️ Технологии
