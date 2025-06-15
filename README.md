@@ -24,5 +24,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Neyahd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Visitors](https://visitor.archi.workers.dev/visitor-badge.glitch.me/badge?page_id=Neyahd.Neyahd)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neyahd&theme=github-dark)
+
+![Code Stats](https://github-code-stats.vercel.app/api/code-stats?username=Neyahd)
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sytrasyyy)
