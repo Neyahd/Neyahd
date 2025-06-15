@@ -3,12 +3,17 @@
 ## 📊 Статистика
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neyahd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neyahd&layout=compact&theme=tokyonight&hide=html,css,scss&count_private=true"/>
+  <a href="https://github.com/Neyahd?tab=repositories">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neyahd&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neyahd&theme=tokyonight&exclude=HTML,CSS,SCSS&count_private=true"/>
+  </a>
+  <a href="https://github.com/Neyahd?tab=stars">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neyahd&theme=tokyonight&utcOffset=1&count_private=true"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Neyahd&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neyahd&theme=tokyonight&hide_border=true&area=true&count_private=true"/>
 </div>
 
 ## 🛠️ Технологии
