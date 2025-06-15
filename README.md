@@ -1,22 +1,13 @@
 # 🚀 Добро пожаловать в мой GitHub!
-
 ## 📊 Статистика
 
-
 <div align="center">
-  <!-- Statystyki konta (commits, PR, issues itp.) -->
-  <img height="165em" src="https://github-readme-stats-private.vercel.app/api?username=Neyahd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered"/>
-  
-  <!-- Najczęściej używane języki -->
-  <img height="165em" src="https://github-readme-stats-private.vercel.app/api/top-langs/?username=Neyahd&layout=compact&theme=tokyonight&hide=html,css,scss&count_private=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neyahd&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neyahd&layout=compact&theme=tokyonight&hide=html,css,scss&count_private=true"/>
 </div>
 
 <div align="center">
-  <!-- Streak statystyki -->
-  <img src="https://streak-stats-private.vercel.app/?user=Neyahd&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&include_all_commits=true"/>
-  
-  <!-- Linie kodu (wymaga tokenu) -->
-  <img src="https://tokei.rs/b1/github/Neyahd?category=code&style=flat&color=6392C6&label=Total%20Lines"/>
+  <img src="https://streak-stats.demolab.com/?user=Neyahd&theme=tokyonight"/>
 </div>
 
 ## 🛠️ Технологии
