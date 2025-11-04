@@ -92,7 +92,7 @@
 | Metric | Value | Badge |
 |--------|-------|-------|
 | **Total Files** | `1,847` | ![Files](https://img.shields.io/badge/Files-1.8k-blue?style=for-the-badge&logo=files) |
-| **Total Repos** | `68` (37 private) | ![Repos](https://img.shields.io/badge/Repos-37%20(32%20private)-7c3aed?style=for-the-badge) |
+| **Total Repos** | `68` (32 private) | ![Repos](https://img.shields.io/badge/Repos-68%20(32%20private)-7c3aed?style=for-the-badge) |
 | **Stars Earned** | `1,294` | ![Stars](https://img.shields.io/github/stars/Neyahd?color=yellow&style=for-the-badge) |
 | **Forks** | `412` | ![Forks](https://img.shields.io/github/forks/Neyahd?color=lightgrey&style=for-the-badge) |
 
