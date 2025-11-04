@@ -60,8 +60,8 @@
 
 | **This Week** | **Last 7 Days** | **All Time** |
 |---------------|------------------|--------------|
-| `Spring Boot` — 18h 42m | `Go` — 14h 11m | `Python` — 1,842h |
-| `WebAssembly` — 9h 21m | `C` — 8h 55m | `Java` — 2,105h |
+| `Go` — 18h 42m | `Go` — 14h 11m | `JS` — 1,842h |
+| `C` — 9h 21m | `Rust` — 8h 55m | `C` — 2,105h |
 
 </div>
 
